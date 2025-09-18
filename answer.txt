@@ -1,0 +1,1 @@
+See B and E in F. Because B refers to A, we can start with F, B, and A. We then see C in E. Since C refers to A, A has been referenced twice. Therefore, it is written in the order of F B A(X) EC A.
